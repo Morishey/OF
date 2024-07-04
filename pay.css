@@ -306,7 +306,7 @@ footer img {
 .copy-btn2 {
     border: none;
     border-radius: 6px;
-    background-color: #009CDE;
+    background-color: #1c7ca5;
     /* color: white */
     font-weight: bold;
     height: 40px;
@@ -352,7 +352,7 @@ footer img {
     }
 
     .go-back {
-        font-size: large;
+        font-size: 13px;
         font-family: Arial, Helvetica, sans-serif;
     }
 
