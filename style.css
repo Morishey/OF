@@ -75,6 +75,7 @@ body {
     padding: 10px 20px;
     cursor: pointer;
     font-family: Nunito Arial, Helvetica, sans-serif;
+    font-size: 13px;
     font-weight: bold;
 }
 
@@ -197,7 +198,7 @@ footer img {
         font-size: 16px;
     }
     .subscribe-btn {
-        font-size: large;
+        font-size: 13px;
         font-family: Arial, Helvetica, sans-serif;
     }
     .navbar {
